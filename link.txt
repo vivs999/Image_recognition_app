@@ -1,0 +1,1 @@
+link for recogniser = https://teachablemachine.withgoogle.com/models/tSDg8qd6-/

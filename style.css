@@ -1,0 +1,19 @@
+body{
+    background-color: deepskyblue;
+    color:blue;
+    font-family: 'Indie Flower', cursive;
+}
+#objects{
+font-size: 22px;
+font-weight: 550;
+}
+
+label{
+    font-size: 22px;
+    font-weight: 500;
+}
+
+h1{
+    text-decoration: underline;
+    font-weight: bold;
+}
